@@ -149,8 +149,8 @@
 >DELTA_PRINTABLE_RADIUS 125     # Print surface diameter/2 minus unreachable space (avoid collisions with vertical towers).
 >DELTA_CALIBRATION_RADIUS 100     # set the radius for the calibration probe points - max 0.8 * DELTA_PRINTABLE_RADIUS 
 >CFG_WIFI_MODE 0     # WIFI mode  0:STA  1:AP
->CFG_WIFI_AP_NAME KT_GiGA_2G_Wave2_FE90     # WIFI name
->CFG_WIFI_KEY_CODE abcd1234     # WIFI password
+>CFG_WIFI_AP_NAME SK_43D0_2.4G     # WIFI name
+>CFG_WIFI_KEY_CODE ASM0F@7333     # WIFI password
 >CFG_CLOUD_ENABLE 0     # cloud service  0:Disable  1:Enable
 >CFG_WIFI_CLOUD_HOST www.baizhongyun.cn     # cloud service address
 >CFG_CLOUD_PORT 10086     # cloud service port
