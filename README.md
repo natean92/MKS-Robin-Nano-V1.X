@@ -1,3 +1,10 @@
+MKS Robin Nano is a powerful 32-bit 3D printer control board with STM32F103VET6. 
+Support Marlin2.0. Support MKS Robin TFT24/28/32/35/43 touch Screens. 
+The motherboard integrates 5 AXIS interface, hot bed, 2 heating heads, 3 NTC100K, 1 MAX31855.The motherboard integrates After shutdown. 
+Support MKS Robin WIFI for cloud printing and supports firmware update by SD card…
+
+
+
 # About MKS-Robin-Nano V1.x and V2.x
 The differences between Robin Nano V1.x and Robin Nano V2.x are as follow:
 
